@@ -1,0 +1,7 @@
+Esse é um
+Arquivo de Texto
+Para aprendizado sobre o
+git.
+
+
+Vamos começar???
